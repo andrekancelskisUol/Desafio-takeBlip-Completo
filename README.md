@@ -1,0 +1,1 @@
+# Desafio-takeBlip-Completo
